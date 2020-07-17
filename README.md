@@ -1,6 +1,12 @@
 # genreClassifier
 
-==============================
+This project attempts to use data available from the <a href="https://github.com/mdeff/fma">Free Music Archive</a> to build a classifier attempting to identify the genre of a specific song. The FMA includes over 100,000 audio files with associated metadata. In this project, we investigate the ability to use the metadata portion of the FMA to assign a genre tag to audio evaluate the resulting classification.
+
+# Project Files
+
+The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_1/blob/master/notebooks/1.3-fma_analysis_updated.ipynb">HERE.</a>
+
+--------
 
 Project Organization
 ------------
@@ -24,14 +30,5 @@ Project Organization
      
 
 
-# Intro
-
-This project attempts to use data available from the Free Music Archive to build a classifier attempting to identify the genre of a specific song. The FMA includes over 100,000 audio files with associated metadata. In this project, we investigate the ability to use the metadata portion of the FMA to assign a genre tag to audio evaluate the resulting classification.
-
-# Project Files
-
-The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_1/blob/master/notebooks/1.3-fma_analysis_updated.ipynb">HERE.</a>
-
---------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
